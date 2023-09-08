@@ -11,6 +11,7 @@ On this pages, you can find some data sets that might be useful when exploring t
 
 [NorWebNews Register, v.2022-11-07](./maps/norWebNews-register-v2022-11-07.json) - The data set used to produce the [NWA's Web News Map service](https://nettarkivet.beta.nb.no/map). Register of Norwegian Web News (2005-)
 
+NESH' [Guide for Internet Research Ethics](../images/forskningsetisk-veileder-for-internettforskning-2018-interaktiv.pdf)
 
 
 ----
