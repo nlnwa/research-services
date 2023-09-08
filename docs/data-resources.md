@@ -9,7 +9,7 @@ nav_order: 7
 On this pages, you can find some data sets that might be useful when exploring the service.
 {: .fs-6 .fw-300 }
 
-[NorWebNews](https://nettarkivet.beta.nb.no/map) - A prototype for exploring online news geographically in a map. It is based on data from the Register of Norwegian Web News (2005-)
+[NorWebNews Register, v.2022-11-07](./maps/norWebNews-register-v2022-11-07.json) - The data set used to produce the [NWA's Web News Map service](https://nettarkivet.beta.nb.no/map). Register of Norwegian Web News (2005-)
 
 
 

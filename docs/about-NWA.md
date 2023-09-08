@@ -27,10 +27,6 @@ Since 2005, we have harvested the Norwegian web on a regular basis, with three d
 - Event crawls
     - Planned or unplanned events (elections, terror attacks, cultural events, pandemics, etc.)
 
-## Access
-Researchers can apply for access with a relevant research purpose.
-
-
 ----
 
 *The image above is created with MidJourney, entering the following prompt: `Digital art with hundreds of computers popping up in a Norwegian landscape --ar 2:1.`*
