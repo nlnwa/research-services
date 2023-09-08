@@ -35,9 +35,7 @@ Our service for research is currently in development. And you will be the very f
         <li>11:30 - 11:45: Break</li>
         <li>11:45 - 12:30: Wrap-up and discussion</li>
     </ul>
-    </summary>
 </details>
-<br>
 
 These pages contains documentation of the services, with how-to-guides and explanation of the different tools and services we offer at the moment.
 - **SolrWayback** - *free-text search, analytical tools and data export*
