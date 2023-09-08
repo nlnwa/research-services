@@ -1,35 +1,57 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![Painting in style of Munch of Media scholars with computers. Generated with MidJourney.](./docs/images/MidJourney_painting_in_style_of_Munch_of_Media_scholars_with_computers.png)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-More specifically, the created site:
+# Workshop on the Norwegian Web Archive
+Welcome to this workshop, exploring data from the Norwegian Web Archive!
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**When?**: 11 Sept, 11:30 - 12 Sept, 12:30<br>
+**Where?**: The Humanities Library, Digital Lab 1st floor at [Håkon Sheteligsplass 7, Bergen](https://www.google.com/maps/search/?api=1&query=H%C3%A5kon+Sheteligsplass+7+Bergen)<br>
+**How do I prepare?**:
+- Bring your own computer
+- Make sure you can access eduroam wifi<br>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Our service for research is currently in development. And you will be the very first to test it! We are eager to gain experience about its value for academic research, and to learn more about how we can support scholars in solving their problems.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<details>
+    <summary>CLICK to view tentative programme</summary>
+    <ul>
+        <b>MONDAY 11 SEPT</b>
+        <li>11:30 - 12:30: Talk: "Opportunities and Challenges for Research in the Norwegian Web Archive"</li>
+        <li>12:30 - 13:15: Lunch</li>
+        <li>13:15 - 13:45: Introduction to the services</li>
+        <li>13:45 - 15:45: Hands-on exploration</li>
+        <li>18:30 -      : Dinner at [Kulturhuset](https://www.google.com/maps/search/?api=1&query=Vaskerelven+8+Bergen)</li>
+        <br>
+        <b>TUESDAY 12 SEPT</b>
+        <li>09:00 - 09:30: Introduction to NWA's Jupyter notebooks</li>
+        <li>09:30 - 11:30: Hands-on exploration</li>
+        <li>11:30 - 11:45: Break</li>
+        <li>11:45 - 12:30: Wrap-up and discussion</li>
+    </ul>
+    </summary>
+</details>
+<br>
 
-To get started with creating a site, simply:
+These pages contains documentation of the services, with how-to-guides and explanation of the different tools and services we offer at the moment.
+- **SolrWayback** - *free-text search, analytical tools and data export*
+- **Maps** - *navigate among archived news sites in a map*
+- **Jupyter Notebook** - *analyse and visualise your corpus*
+- **Gephi** - *visualise networks*
+- **Datasets** - *additional datasets and resources to support analysis*
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Terms and Conditions
+Please read the [Terms and Conditions](./docs/terms-conditions.md) in advance.
+By using the services, you agree to comply with these terms and conditions.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## About
+The workshop is co-organised by the National Library of Norway, [Digital Lab](https://www.uib.no/en/digitallab) and [Centre for Digital Narrative](https://www.uib.no/cdn) at the University of Bergen.
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+*The image above is created with MidJourney, entering the following prompt: `/imagine prompt: Painting in style of Munch of Media scholars with computers, surrounded by a matrix of code and --ar 2:1 --v 5 --chaos 30`*
