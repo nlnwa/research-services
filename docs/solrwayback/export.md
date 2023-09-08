@@ -3,7 +3,7 @@ title: Export Search Results
 layout: home
 parent: SolrWayback
 nav_order: 5
-permalink: /docs/SolrWayback/export
+permalink: /docs/solrwayback/export
 ---
 
 ![](../images/export-json2.png)

@@ -5,15 +5,13 @@ nav_order: 5
 permalink: /docs/gephi
 ---
 
-*This section demonstrates how you can import data from SolrWayback to Gephi and visualise the data. If you want to learn more about the many possibilities for network analysis in Gephi, please visit [Learn how to use Gephi](https://gephi.org/users/).*
-
 # Gephi
 Gephi allow you to visualise networks, such as relations between domains.
 {: .fs-6 .fw-300 }
 
 ![](./images/gephi.png)
 
-Gephi is an open-source software for network exploration and visualisation. It has been used in a number of projects, both inside and outside of adademia, e.g. in studies of Twitter network traffic during the terror attacks in Norway, 22 July 2011.[^1]
+Gephi is an open-source software for network exploration and visualisation.[^1] It has been used in a number of projects, both inside and outside of adademia, e.g. in studies of Twitter network traffic during the terror attacks in Norway, 22 July 2011.[^2]
 
 Before you start, you will need to export data from SolrWayback. To learn more about exporting data from SolWayback to Gephi, see [Link graph Gephi export](./solrwayback/features#link-graph-gephi-export)
 
@@ -32,10 +30,15 @@ If there more than 10.000 nodes, consider to make a new export from SolrWayback 
 Alternatively, open the "Filter" tab (right), choose "Topology", and drag "Giant component" down to filters. Click "▸ Filter".
 
 ![](./images/gephi-context-nodes.png)
+
 *The number of nodes are shown in the top right corner.*
+
 ![](./images/gephi-filters-giant.png)
+
 *The "Giant component" filter can be dragged down to the filters.*
+
 ![](./images/gephi-run-filter.png)
+
 *Click "▸ Filter" to apply the filter.*
 
 ## Select layout
@@ -45,8 +48,9 @@ Then click "▸ Run" and wait.
 
 ![](./images/gephi-layout-yifan-hu.png) 
 
-Repeat clicking "Run" until you are happy with how the graph looks.
-(For graphs with 1 million nodes, this can hours. So you are strongly encouraged to scope down the amount of nodes, during this workshop!)
+Click "Run" until you are happy with how the visual distribution of the nodes.
+
+(For graphs with 1 million nodes, this can take hours. So you are strongly encouraged to scope down the amount of nodes, during this workshop!)
 
 ## Statistics
 In the "Statistics" tab, find "Network diameter" and press "Run".
@@ -61,8 +65,6 @@ In the "Appearance" tab, click "Nodes".
 Click the color palette icon (🎨). Choose "Partition", and then as "Attribute" you choose "Modularity class".
 
 Click "▸ Apply"
-
-![](./images/gephi-apperance.png) 
 
 ## Adjust text
 Still in the "Appearance" tab, click label size (tT).
@@ -89,5 +91,8 @@ Choose the desired format, and click "Export".
 
 ----
 
-[^1]: [Aouragh, Miriyam (2011), "Collateral Damage: #Oslo Attacks and Proliferating Islamophobia", Jadaliyya](https://www.jadaliyya.com/Details/24298/Collateral-Damage-#Oslo-Attacks-and-Proliferating-Islamophobia).
-[^2]: [GraphPresenter is a tool, developed by the Royal Danish Library]
+[^1]: This guide only contain a tiny demonstration of how you can import data from SolrWayback to Gephi and visualise the data. If you want to learn more about the possibilities for network analysis in Gephi, please visit [Learn how to use Gephi](https://gephi.org/users/).
+
+[^2]: [Aouragh, Miriyam (2011), "Collateral Damage: #Oslo Attacks and Proliferating Islamophobia", Jadaliyya](https://www.jadaliyya.com/Details/24298/Collateral-Damage-#Oslo-Attacks-and-Proliferating-Islamophobia).
+
+

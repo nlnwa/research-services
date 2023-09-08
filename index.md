@@ -14,7 +14,8 @@ Welcome to this workshop, exploring data from the Norwegian Web Archive!
 **Where?**: The Humanities Library, Digital Lab 1st floor at [Håkon Sheteligsplass 7, Bergen](https://www.google.com/maps/search/?api=1&query=H%C3%A5kon+Sheteligsplass+7+Bergen)<br>
 **How do I prepare?**:
 - Bring your own computer
-- Make sure you can access eduroam wifi<br>
+- Make sure you can access eduroam wifi
+- Install [VMWare Horizon Client](https://www.vmware.com/go/viewclients) [^1] <br>
 
 Our service for research is currently in development. And you will be the very first to test it! We are eager to gain experience about its value for academic research, and to learn more about how we can support scholars in solving their problems.
 
@@ -22,11 +23,11 @@ Our service for research is currently in development. And you will be the very f
     <summary>CLICK to view tentative programme</summary>
     <ul>
         <b>MONDAY 11 SEPT</b>
-        <li>11:30 - 12:30: Talk: "Opportunities and Challenges for Research in the Norwegian Web Archive"</li>
+        <li>11:30 - 12:30: Talk: "Researching the Norwegian Web Archive: Opportunities and Challenges"</li>
         <li>12:30 - 13:15: Lunch</li>
         <li>13:15 - 13:45: Introduction to the services</li>
         <li>13:45 - 15:45: Hands-on exploration</li>
-        <li>18:30 -      : Dinner at [Kulturhuset](https://www.google.com/maps/search/?api=1&query=Vaskerelven+8+Bergen)</li>
+        <li>18:30: Dinner at <a href="https://www.google.com/maps/search/?api=1&query=Vaskerelven+8+Bergen">Kulturhuset</a></li>
         <br>
         <b>TUESDAY 12 SEPT</b>
         <li>09:00 - 09:30: Introduction to NWA's Jupyter notebooks</li>
@@ -53,5 +54,7 @@ By using the services, you agree to comply with these terms and conditions.
 The workshop is co-organised by the National Library of Norway, [Digital Lab](https://www.uib.no/en/digitallab) and [Centre for Digital Narrative](https://www.uib.no/cdn) at the University of Bergen.
 
 ----
+
+[^1]: This is recommended, but not required. **Windows users** will find it in the "Software Center" on their computer. **Macintosh users** can install it themselves from [VMWare Horizon Client](https://www.vmware.com/go/viewclients). **Linux users** need to contact [Brita](https://www.uib.no/foransatte/78177/brita-hjelper-deg) to have it installed. (In case they have questions, refer to Alexi Santana.)
 
 *The image above is created with MidJourney, entering the following prompt: `/imagine prompt: Painting in style of Munch of Media scholars with computers, surrounded by a matrix of code and --ar 2:1 --v 5 --chaos 30`*
