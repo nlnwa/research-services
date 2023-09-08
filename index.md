@@ -17,10 +17,8 @@ Welcome to this workshop, exploring data from the Norwegian Web Archive!
 - Make sure you can access eduroam wifi
 - Install [VMWare Horizon Client](https://www.vmware.com/go/viewclients) [^1] <br>
 
-Our service for research is currently in development. And you will be the very first to test it! We are eager to gain experience about its value for academic research, and to learn more about how we can support scholars in solving their problems.
-
 <details>
-    <summary>CLICK to view tentative programme</summary>
+    <summary>CLICK TO OPEN SCHEDULE</summary>
     <ul>
         <b>MONDAY 11 SEPT</b>
         <li>11:30 - 12:30: Talk: "Researching the Norwegian Web Archive: Opportunities and Challenges"</li>
@@ -36,6 +34,11 @@ Our service for research is currently in development. And you will be the very f
         <li>11:45 - 12:30: Wrap-up and discussion</li>
     </ul>
 </details>
+
+## Services
+Our services for research is currently in development. And you will be the very first outside of the National Library to test it!
+
+We can't guarantee that everything work as expected. There might be bugs, or some server hickup along the road. But we are eager to gain experience about its current value for scholars, and to learn more about how we can support the research community and solve the question of access.
 
 These pages contains documentation of the services, with how-to-guides and explanation of the different tools and services we offer at the moment.
 - **SolrWayback** - *free-text search, analytical tools and data export*

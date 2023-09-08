@@ -1,33 +1,25 @@
 ---
-title: Map Services
+title: Maps
 layout: home
-nav_order: 6
+nav_order: 1
+permalink: /docs/maps
 ---
 
 ![](./images/maps-norwebnews.png)
 
 # Map Services
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+NWA has prototyped a map service that allow geographical exploration of the Norwegian Web Archive. It is currently available for a subset of entities, namely Norwegian Web News (2005-).
 {: .fs-6 .fw-300 }
 
-## Table of content
-1. [Norwegian Web News](#norwegian-web-news)
-2. [Norwegian Governmental Entities](#norwegian-governmental-entities)
-3. [Datasets](#datasets)
+## Norwegian Web News (2005-)
+The map for Norwegian Web News represent web news from Spain in the south to Svalbard in the north.
 
-
-## Norwegian Web News
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Zoom in/out to find your desired scope. Click on a pin to show the name of the publication. Following the link will make a query for its domain in the archive.
 
 The map is available at the [Norwegian Web Archive's Map of Web News](https://nettarkivet.beta.nb.no/map/)
 
-## Norwegian Governmental Entities
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-You can use the map through our [online service](https://nettarkivet.beta.nb.no/map/)
-
-## Datasets
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Data set
+The map service is based on a data set with a register of Norwegian web news sites after 2005., sometimes refered to as 'online newspapers', published between 2005-21.
 
 
 

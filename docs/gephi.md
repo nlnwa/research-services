@@ -6,7 +6,7 @@ permalink: /docs/gephi
 ---
 
 # Gephi
-Gephi allow you to visualise networks, such as relations between domains.
+Gephi allow you to visualise networks, such as domain clusters and relations between domains.
 {: .fs-6 .fw-300 }
 
 ![](./images/gephi.png)
