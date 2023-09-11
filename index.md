@@ -21,10 +21,10 @@ Welcome to this workshop, exploring data from the Norwegian Web Archive!
     <summary>CLICK TO OPEN SCHEDULE</summary>
     <ul>
         <b>MONDAY 11 SEPT</b>
-        <li>11:30 - 12:30: Talk: "Researching the Norwegian Web Archive: Opportunities and Challenges"</li>
-        <li>12:30 - 13:15: Lunch</li>
-        <li>13:15 - 13:45: Introduction to the services</li>
-        <li>13:45 - 15:45: Hands-on exploration</li>
+        <li>11:30 - 12:30: Talk: "Researching the Norwegian Web Archive: Challenges and Opportunities"</li>
+        <li>12:30 - 13:00: Break</li>
+        <li>13:00 - 13:30: Introduction to the services</li>
+        <li>13:30 - 15:45: Hands-on exploration</li>
         <li>18:30: Dinner at <a href="https://www.google.com/maps/search/?api=1&query=Vaskerelven+8+Bergen">Kulturhuset</a></li>
         <br>
         <b>TUESDAY 12 SEPT</b>
