@@ -44,7 +44,7 @@ There are several reasons to export search results in the WARC format:
 - Extract the archived objects (e.g. html or png files) and process these computationally. (see [Notebook 4_warc2file](../notebooks#4-warc2file))
 - You want to inspect technical aspects of the archival records, beyond the data and metadata that are indexed in SolrWayback (e.g. with [Warchaeology](../warchaeology) in the command-line)
 
-*NOTICE: We recommend NOT to download `Expanded WARC`. This is only relevant for highly technical users who is curious to see the complete dialogue between harvester and host during harvest, from the first request to the last response.*
+*NOTICE: We recommend NOT to download `Expanded WARC`. This is mostly relevant for users curious to inspect the http communication between the harvester and hosts, from the first request to the last response.*
 
 
 

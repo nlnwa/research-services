@@ -8,7 +8,7 @@ permalink: /docs/solrwayback/features
 ---
 
 # Features & Tools
-SolrWayback offer a range of features and tools that researchers can use to understand and analyse the data of the Norwegian Web Archive.
+SolrWayback offers a range of features and tools that researchers can use to understand and analyse data from the Norwegian Web Archive.
 {: .fs-6 .fw-300 }
 
 
@@ -25,7 +25,7 @@ SolrWayback offer a range of features and tools that researchers can use to unde
 ## Visualise search results
 To open the visualisation tool, click on the bar chart-icon next to "RESULTS".
 
-The visualisation is based on statistics from your search results, and visualise the size of each domain. Size means the number of archived resources, combined with ingoing and outgoing links to/from that domain.
+The visualisation is based on statistics from your search results, and visualises the size of each domain. Size means the number of archived resources, combined with ingoing and outgoing links to/from that domain.
 
 ![Visualise Search Results](../images/visualise-results2.png)
 
@@ -33,11 +33,11 @@ The visualisation is based on statistics from your search results, and visualise
 
 
 ## Wordcloud
-*WARNING: We encourage you to only use Wordcloud for small domains. The Wordcloud generator demands a lot of memory and for large domains, it will take long time to generate.*
+*WARNING: We encourage you to only use Wordcloud for small domains. The Wordcloud generator demands a lot of memory and for large domains, it will take a long time to generate.*
 
-Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
+Wordcloud allows you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
 
-It operates with a Norwegian stop word list which remove common words like "å", "og", "en/ei/et", etc. The words displayed will be the most frequent word on that domain, with more frequent words displayed in a bigger font.
+It operates with a Norwegian stop word list which removes common words like "å", "og", "en/ei/et", etc. The words displayed will be the most frequent word on that domain, with more frequent words displayed in a bigger font.
 
 (If the returned image is black, it means SolrWayback could not find any text for that domain.)
 
@@ -63,18 +63,18 @@ You can either:
 - move two fingers up/down on your touchpad
 - pinch/spread two fingers on your touchpad
 
-**Highlighting**
+**Highlight node**
 To focus on a specific part of the network, you can click a node. This will highlight the other domains directly connected with this one, and suppress the rest of the network.
 
 ## Link graph Gephi Export
 
 ![Link graph Gephi Export](../images/feature_link-graph-export.png)
 
-If you want to do more advanced analysis of document relations, SolrWayback offer the possibility to export data to Gephi. You need to define a query, based on what you want to analyse in Gephi.
+If you want to do more advanced analysis of document relations, SolrWayback offers the possibility to export data to Gephi. You need to define a query, based on what you want to analyse in Gephi.
 
 To learn more about importing data from SolrWayback to Gephi, see the documentation page for [Gephi](../../docs/gephi)
 
-### Queries for link export
+### Query for link export
 Below are examples of queries used for certain types of analyses.
 
 |Example|Query|
@@ -104,7 +104,7 @@ The Ngram viewer plot the frequency of selected words or phrases. This is useful
 
 The frequency % is calculated by:
 
-the number of html documents with match for word/phrase per {time-period} / total number of html documents per {time-period}
+the number of html documents matching word/phrase per {period} / total number of html documents per {period}
 
 Since only a few number of collections are indexed, there will be holes and biases that are not always easy to make sense of. E.g., most of the indexed documents are from the NWA domain crawl, which is often harvested in late autumn. Before the rest of our collection is indexed, a word like "blogg" is therefore likely to occur far more in October-December, than in February.
 

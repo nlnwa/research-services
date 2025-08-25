@@ -8,7 +8,7 @@ permalink: /docs/solrwayback/search/search-modes
 ---
 
 # Search modes
-SolrWayback provide several different modes for search. This page give you an overview of the different modes, and how to use them.
+SolrWayback provides several different modes for search. This page gives you an overview of the different modes, and how to use them.
 {: .fs-6 .fw-300 }
 
 #### Table of content
@@ -21,7 +21,7 @@ SolrWayback provide several different modes for search. This page give you an ov
 
 
 ## Text search
-Text search is the default mode. It is basicly a free text search, allowing you to search a variety of fields in the index.
+Text search is the default mode. In principle, this is a free text search, allowing you to search a variety of fields in the index.
 
 For more information about to use text search, see [Search synthax](./search-synthax.md) and [Field descriptions](./fields).
 
@@ -31,7 +31,7 @@ Grouped search mode will group the results by URL. When there are several matche
 To activate this mode, check the "Grouped search" box below the search bar.
 
 ## Image search
-Image search allow you to search for images in the context of text. Based on your query, SolrWayback will return up images that appear close to your search phrase in HTML pages.
+Image search allows you to search for images in the context of text. Based on your query, SolrWayback will return up images that appear close to your search phrase in HTML pages.
 
 To activate this mode, check the "Image search" box below the search bar.
 
@@ -41,11 +41,11 @@ The URL Search mode is typically useful when you are searching for resources wit
 To activate this mode, check the "URL search" box below the search bar.
 
 ## GPS Image Search
-GPS Image Search allow you to search for images, based on a geographical scope. It will search through images with exif metadata about the location of capture. (Not all images contain exif geodata.)
+GPS Image Search allows you to search for images, based on a geographical scope. It will search through images with exif metadata about the location of capture. (Not all images contain exif geodata.)
 
 ![GPS Image Search](../../images/gps-image-search.png)
 
-*Open "GPS Image Search" by click on the link below the search bar.*
+*Open "GPS Image Search" by clicking on the link below the search bar.*
 
 Because of the time used to fetch the images, the results are limited to 500.
 
@@ -72,7 +72,7 @@ It is possible to get a report of all images that matches your scope, without fe
 
 This will allow you to make a list of all images within your scope, without the limit of 500 results.
 
-To do this, you use a URL to calll the service: `https://nettarkivet.beta.nb.no/solrwayback/services/frontend/images/search/location/?query=*:*&latitude=56.17&longitude=10.20&d=50`.
+To do this, you use a URL to call the service: `https://nettarkivet.beta.nb.no/solrwayback/services/frontend/images/search/location/?query=*:*&latitude=56.17&longitude=10.20&d=50`.
 
 To adapt your query, simply change the parameter values for query (`field:value`), latitude, longitude and d (diameter in kilometers) as preferred.
 
